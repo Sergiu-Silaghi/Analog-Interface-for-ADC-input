@@ -2,9 +2,9 @@
 Design and practical implementation of an analog interface for ADC input, including theoretical analysis and experimental validation.
 
 ## Overview
-This project presents the design and practical implementation of an **analog signal interface for an Analog-to-Digital Converter (ADC)** using **LTSpice simulation tool**. 
+This project presents the design and practical implementation of an **analog signal interface for an Analog-to-Digital Converter (ADC)**. 
 The purpose of the system is to properly prepare an analog signal before it is sampled by the ADC, improving signal quality, amplitude range, and measurement accuracy.
-The interface is designed in LTSpice simulation software and is composed of **four analog processing stages**, each responsible for conditioning the signal before it reaches the ADC input.
+The interface is designed in **LTSpice simulation software** and is composed of **four analog processing stages**, each responsible for conditioning the signal before it reaches the ADC input.
 
 ---
 
