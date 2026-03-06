@@ -113,7 +113,7 @@ Tools and components used in the project:
 - Oscilloscope
 - Signal generator
 - Breadboard
-- Scopy software
+- Scopy software designed by Analog Devices
 
 ---
 
